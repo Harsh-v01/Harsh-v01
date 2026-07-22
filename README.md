@@ -15,27 +15,6 @@
 
 <br/>
 
-<!-- SOCIAL -->
-<p align="center">
-  <a href="https://github.com/harsh-v01">
-    <img src="https://img.shields.io/badge/GitHub-harsh--v01-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=161b22&color=21262d" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/harsh015">
-    <img src="https://img.shields.io/badge/LinkedIn-harsh015-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=161b22&color=21262d" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/contactharsh15113">
-    <img src="https://img.shields.io/badge/LeetCode-contactharsh15113-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=161b22&color=21262d" />
-  </a>
-  &nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/harsh_015">
-    <img src="https://img.shields.io/badge/GFG-harsh__015-0d1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46&labelColor=161b22&color=21262d" />
-  </a>
-</p>
-
-<br/>
-
 <!-- FOCUS BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech%20IT-MIT%20ADT%20University-1c2128?style=flat-square&labelColor=161b22&color=21262d" />
