@@ -1,7 +1,5 @@
 <!-- HERO BANNER -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="width:100%; height:auto;" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=180&section=header&animation=fadeIn" width="100%" />
 
 <!-- NAME -->
 <h1 align="center">
@@ -10,25 +8,52 @@
 
 <!-- SUBTITLE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=8B949E&center=true&vCenter=true&width=760&lines=Building+AI-powered+apps%2C+backend+workflows%2C+and+practical+software.;Focused+on+real+problems%2C+clean+execution%2C+and+shipping+projects." alt="Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=8B949E&center=true&vCenter=true&width=760&lines=B.Tech+IT+%40+MIT+ADT+Pune+%E2%80%94+SIH+Top+30+Finalist;Building+AI-powered+apps%2C+OCR+pipelines%2C+and+full-stack+products." alt="Subtitle" />
 </p>
 
-<br/>
-
-<!-- FOCUS BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech%20IT-MIT%20ADT%20University-1c2128?style=flat-square&labelColor=161b22&color=21262d" />
-  <img src="https://img.shields.io/badge/AI%20Apps-1f6feb?style=flat-square" />
-  <img src="https://img.shields.io/badge/Backend%20Workflows-238636?style=flat-square" />
-  <img src="https://img.shields.io/badge/Full--Stack%20Products-8957e5?style=flat-square" />
-  <img src="https://img.shields.io/badge/Learning%20by%20Building-f78166?style=flat-square" />
+  <a href="https://linkedin.com/in/harsh015"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/harsh-v01"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://portfolio-theta-black-6qubbcbeor.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
 </p>
 
 <br/>
+
+## About Me
+
+- 🎓 Final-year B.Tech IT student at **MIT ADT University, Pune** (CGPA 8.03), graduating July 2026
+- 🏆 **Smart India Hackathon — Top 30 finalist**, **Best Departmental Project** award
+- 🧠 Building **Padh.AI** — an academic platform combining OCR, LLM prompting, and plagiarism detection
+- 🎯 Looking for **SWE, Full-Stack, and AI/ML** roles — fresher / intern
 
 ---
 
 ## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Padh.AI](https://github.com/Harsh-v01/Padh.AI)
+**AI Academic Resource Hub**
+
+OCR + LLM-based summarization, PYQ generation, quizzes, and TF-IDF plagiarism detection — full dashboard with a Python backend.
+
+`React` `Supabase` `OCR` `LLM Prompting` `Python`
+
+</td>
+<td width="50%" valign="top">
+
+### [Samvad](https://github.com/harsh-v01/chat-html)
+**Assistive Communication App**
+
+Real-time speech-to-text and text-to-speech tool built for individuals with hearing or speech impairments.
+
+`React` `Firebase` `Speech-to-Text`
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/Harsh-v01/Padh.AI">
@@ -39,40 +64,11 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/harsh-v01/Certi_generator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harsh-v01&repo=Certi_generator&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e" />
-  </a>
-</p>
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**Padh.AI**  
-`AI · OCR · Backend`
-
-Academic platform for document processing, summaries, PYQs, quizzes, and plagiarism-aware workflows.
-
-</td>
-<td width="33%" valign="top">
-
-**Samvad**  
-`Accessibility · Speech · Mobile`
-
-Communication-focused app concept exploring speech-to-text and text-to-speech interaction.
-
-</td>
-<td width="33%" valign="top">
-
-**Certi Generator**  
-`Automation · QR · Utility`
-
-Certificate generation with QR-based verification for practical automation workflows.
-
-</td>
-</tr>
-</table>
+**Also built:**
+- 🎓 **Certi Generator** — bulk certificate generation with QR-code verification (`Python` `OpenCV` `PyPDF2`)
+- 🅿️ **Smart Parking System** — real-time slot tracking (`Flutter` `Firebase` `GPS`)
+- 💬 **Real-Time Translation Chat** — live speech-to-text + multilingual translation (`React` `Next.js`)
+- 🏥 **Healthcare NLP** — unstructured clinical text → structured data
 
 ---
 
@@ -90,33 +86,51 @@ Certificate generation with QR-based verification for practical automation workf
 
 ---
 
-## Work Signals
+## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=harsh-v01&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=harsh-v01&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-v01&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8b949e" />
 </p>
 
 ---
 
-## Currently Building
+## Achievements & Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Current%20Focus-Padh.AI-1f6feb?style=for-the-badge&labelColor=161b22&color=21262d" />
-  <img src="https://img.shields.io/badge/Exploring-RAG%20%2B%20OCR%20Pipelines-238636?style=for-the-badge&labelColor=161b22&color=21262d" />
-  <img src="https://img.shields.io/badge/Improving-API%20Design%20%2B%20System%20Thinking-8957e5?style=for-the-badge&labelColor=161b22&color=21262d" />
+  <img src="https://img.shields.io/badge/🏆_SIH_Top_30_Finalist-161b22?style=for-the-badge&labelColor=1f6feb&color=161b22" />
+  <img src="https://img.shields.io/badge/🥇_Best_Departmental_Project-161b22?style=for-the-badge&labelColor=238636&color=161b22" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
 </p>
 
 ---
 
+## Right Now
+
+- 🧭 **Building** — [Padh.AI](https://github.com/Harsh-v01/Padh.AI)
+- 🔍 **Exploring** — RAG pipelines, retrieval-augmented OCR
+- 📐 **Sharpening** — API design, system design, DSA
+- 📍 **Based in** — Pune, India
+
+---
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=2200&color=8B949E&center=true&vCenter=true&width=850&lines=I+care+less+about+looking+impressive+and+more+about+building+things+that+actually+work.;Still+early.+Still+learning.+But+serious+about+becoming+dangerously+good+at+building+software." alt="Closing" />
+  <img src="https://komarev.com/ghpvc/?username=harsh-v01&label=Profile%20Views&color=58A6FF&style=flat-square" />
 </p>
 
-<br/>
+## Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/harsh015"><code>linkedin</code></a> &nbsp;•&nbsp;
-  <a href="https://github.com/harsh-v01"><code>github</code></a> &nbsp;•&nbsp;
-  <a href="https://leetcode.com/contactharsh15113"><code>leetcode</code></a> &nbsp;•&nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/harsh_015"><code>gfg</code></a>
+  <a href="https://linkedin.com/in/harsh015"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://portfolio-theta-black-6qubbcbeor.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://leetcode.com/contactharsh15113"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/harsh_015"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=140&section=footer&animation=fadeIn" width="100%" />
