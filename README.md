@@ -82,8 +82,8 @@ I build products end-to-end — frontend, backend, and the pieces in between. Re
 
 ## Right Now
 
-- 📚 Grinding DSA daily — [LeetCode profile](https://leetcode.com/contactharsh15113)
-- 🛠️ Building an AI-powered resume/JD matcher
+- 📚 Learning AI and FSD together .
+- 🛠️ Building an AI-powered webapps
 - 🎯 Prepping for SDE interviews at product and fintech companies
 
 <br>
