@@ -29,7 +29,7 @@ I build products end-to-end — frontend, backend, and the pieces in between. Re
 <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb" />
 <img src="https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black" />
 <br><br>
-<a href="https://github.com/harsh-v01/chat-html">→ View repo</a>
+<a href="https://github.com/Harsh-v01/Samwaad_v02">→ View repo</a>
 </td>
 <td width="50%" valign="top">
 <h3>📄 AI Resume/JD Matcher</h3>
