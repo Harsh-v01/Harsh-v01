@@ -34,9 +34,6 @@
   <a href="https://github.com/Harsh-v01">
     <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/contactharsh15113">
-    <img src="https://img.shields.io/badge/LEETCODE-f59e0b?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
 </p>
 
 <p align="center">
