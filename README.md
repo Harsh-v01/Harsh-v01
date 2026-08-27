@@ -213,10 +213,6 @@ An AI-focused project exploring practical applications of modern AI capabilities
 <img src="https://skillicons.dev/icons?i=python,react" />
 </p>
 
-<a href="https://github.com/Harsh-v01/NexusAI">
-<img src="https://img.shields.io/badge/📂_VIEW_REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
 </td>
 
 </tr>
