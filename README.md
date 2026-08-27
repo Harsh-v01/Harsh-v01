@@ -190,31 +190,6 @@ An automated certificate platform designed to simplify certificate creation and 
 
 </td>
 
-<td width="50%" valign="top">
-
-<h3>🧠 NexusAI</h3>
-
-<b>AI Experimentation Project</b>
-
-<p>
-An AI-focused project exploring practical applications of modern AI capabilities through a web-based interface.
-</p>
-
-<b>Highlights</b>
-
-<ul>
-<li>🤖 AI integration</li>
-<li>🌐 Web application</li>
-<li>🧪 AI experimentation</li>
-<li>⚡ Modern development workflow</li>
-</ul>
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,react" />
-</p>
-
-</td>
-
 </tr>
 </table>
 
