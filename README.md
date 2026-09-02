@@ -1,16 +1,14 @@
-<!-- =========================================================
-     HARSH KUMAR — GITHUB PROFILE
-     ========================================================= -->
-
 <div align="center">
 
-# HARSH KUMAR
+<img src="./assets/hero.svg" width="100%" alt="Harsh Kumar">
 
-### `software • ai • things worth building`
+<h1>HARSH KUMAR</h1>
+
+<h3><code>software • ai • things worth building</code></h3>
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge)](https://portfolio-theta-black-6qubbcbeor.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge)](https://portfolio-theta-black-6qubbceor.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh015)
 [![GitHub](https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harsh-v01)
 
