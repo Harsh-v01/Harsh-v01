@@ -1,39 +1,15 @@
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0f172a,100:1e3a8a&height=180&section=header&text=HARSH%20KUMAR&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%20%7C%20REAL-TIME%20SYSTEMS&descSize=16&descColor=93c5fd&descAlignY=64&animation=fadeIn"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:eff6ff,100:dbeafe&height=180&section=header&text=HARSH%20KUMAR&fontSize=52&fontColor=0f172a&fontAlignY=42&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%20%7C%20REAL-TIME%20SYSTEMS&descSize=16&descColor=1e40af&descAlignY=64&animation=fadeIn"
-    />
-    <img
-      src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:eff6ff,100:dbeafe&height=180&section=header&text=HARSH%20KUMAR&fontSize=52&fontColor=0f172a&fontAlignY=42&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%20%7C%20REAL-TIME%20SYSTEMS&descSize=16&descColor=1e40af&descAlignY=64&animation=fadeIn"
-      width="100%"
-      alt="Harsh Kumar"
-    />
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=460&lines=Full-Stack+Developer;Building+AI-powered+apps;Learning+by+building" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img
-    src="./harsh-terminal.svg"
-    width="760"
-    alt="Harsh Kumar developer terminal"
-  />
+  <a href="https://portfolio-theta-black-6qubbcbeor.vercel.app/"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-2563eb?style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/harsh015"><img src="https://img.shields.io/badge/LINKEDIN-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Harsh-v01"><img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <a href="https://portfolio-theta-black-6qubbcbeor.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-2563eb?style=for-the-badge" />
-  </a>
-  <a href="https://linkedin.com/in/harsh015">
-    <img src="https://img.shields.io/badge/LINKEDIN-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Harsh-v01">
-    <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://github.com/Harsh-v01/Harsh-v01/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 <p align="center">
