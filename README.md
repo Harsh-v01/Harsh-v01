@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Harsh Kumar">
+<img src="./assets/hero.svg" width="100%" alt="Harsh Kumar banner">
 
 <h1>Harsh Kumar</h1>
 
@@ -17,7 +17,7 @@
 ### stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,nodejs,python,mongodb,mysql,firebase,aws,gcp,git" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,python,mongodb,mysql,firebase,aws,gcp,git" alt="tech stack icons" />
 </p>
 
 <br>
@@ -72,8 +72,8 @@ Auto-generates certificates from a template + spreadsheet.
 ### github stats
 
 <p align="left">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Harsh-v01&show_icons=true&theme=default&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-v01&layout=compact&theme=default&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Harsh-v01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Harsh's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-v01&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <br>
