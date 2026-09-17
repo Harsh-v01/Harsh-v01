@@ -86,6 +86,7 @@ Auto-generates certificates from a template + spreadsheet.
 
 <div align="center">
 
-📬 open to SDE / full-stack roles — <a href="mailto:contactharsh15113@gmail.com">reach out</a>
+📬 open to SDE / full-stack roles — <a href="mailto:contactharsh15113@gmail.com">reach out</a> or try -> contactharsh15113@gmail.com 
 
 </div>
+
