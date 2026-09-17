@@ -80,7 +80,7 @@ Auto-generates certificates from a template + spreadsheet.
 
 ### achievements
 
-🏆 Top 30 Teams, Smart India Hackathon 2024 &nbsp;|&nbsp; 🥇 Best Departmental Project — Samvad &nbsp;|&nbsp; 🎤 IIC Club Management Lead
+🏆 Top 30 Teams, Smart India Hackathon 2024 &nbsp;|&nbsp; 🥇 Best Departmental Project — Samvad &nbsp;|&nbsp;
 
 <br>
 
