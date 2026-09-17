@@ -4,7 +4,7 @@
 
 <h1>HARSH KUMAR</h1>
 
-<h3><code>software • ai • things worth building</code></h3>
+<h3><code>Build • Learn • Ship </code></h3>
 
 <br>
 
