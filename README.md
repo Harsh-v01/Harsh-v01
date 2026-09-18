@@ -14,7 +14,7 @@
 
 <br>
 
-### stack
+### Stack
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=react,nodejs,python,mongodb,mysql,firebase,aws,gcp,git" alt="tech stack icons" />
@@ -22,7 +22,7 @@
 
 <br>
 
-### projects
+### Projects
 
 <table>
 <tr>
@@ -69,7 +69,7 @@ Auto-generates certificates from a template + spreadsheet.
 
 <br>
 
-### github stats
+### Github stats
 
 <p align="left">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Harsh-v01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Harsh's GitHub stats" />
@@ -78,7 +78,7 @@ Auto-generates certificates from a template + spreadsheet.
 
 <br>
 
-### achievements
+### Achievements
 
 🏆 Top 30 Teams, Smart India Hackathon 2024 &nbsp;|&nbsp; 🥇 Best Departmental Project — Samvad &nbsp;|&nbsp;
 
