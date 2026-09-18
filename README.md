@@ -38,7 +38,7 @@ Real-time speech-to-text/TTS on the Bhasini API — live, deployed, won Best Dep
 <td width="50%" valign="top">
 
 **📄 [DocuMind](https://github.com/Harsh-v01/DocuMind)**
-Document intelligence tool.
+Document Intelligence Tool: Built a RAG-based application that retrieves relevant document text chunks using semantic search and generates accurate, context-aware answers grounded in document content.
 
 ![Python](https://img.shields.io/badge/-Python-2563EB?style=flat-square&logo=python&logoColor=white)
 ![NLP](https://img.shields.io/badge/-NLP-2563EB?style=flat-square)
