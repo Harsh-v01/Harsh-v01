@@ -29,7 +29,7 @@
 <td width="50%" valign="top">
 
 **🎙️ [Samwaad_v02](https://github.com/Harsh-v01/Samwaad_v02)**
-Real-time speech-to-text/TTS on the Bhasini API — live, deployed, won Best Departmental Project.
+Real-time speech-to-text/TTS on the Bhasini API — live, deployed, won Best Departmental Project for this.
 
 ![React](https://img.shields.io/badge/-React-2563EB?style=flat-square&logo=react&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-2563EB?style=flat-square&logo=firebase&logoColor=white)
